@@ -1,4 +1,3 @@
-# Project2
 # AI-Based diabetes prediction system 
 Diabetes Prediction Using Machine Learning
 
